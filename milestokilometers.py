@@ -1,4 +1,5 @@
-#Convert miles to kilometers
+''' Convert miles to kilometers
+'''
 
 #Prompt the user for the number of miles
 miles = input("How many miles? ")
